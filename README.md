@@ -130,12 +130,5 @@ def quality_first(data):
 
 <p align="center">
   <i>“Kod satırları birer araç; asıl amaç insan yaşamını iyileştirmek.”</i><br><br>
-  <strong>⭐ Eğer projeler hoşuna gittiyse yıldız vermeyi unutma! ⭐</strong>
-</p>
-
-<!-- İsteğe bağlı: GitHub Trophies -->
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yldzucucu21&theme=onedark&no-frame=true&margin-w=10&margin-h=10" alt="Trophies" />
-</div>
-
+  
 <!-- Son -->
